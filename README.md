@@ -1,6 +1,6 @@
 # Amazone-Clone
 
-Bu proje responsive ui e sahip bir coffee espresso projesidir.Iconlar ve hover efektleri kullanılmıştır.
+Bu proje responsive ui e sahip bir Amazon Clone projesidir.Iconlar ve hover efektleri kullanılmıştır.
 
 # Kullanılan Teknolojiler
 -Html
